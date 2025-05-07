@@ -21,8 +21,8 @@ title                    : "여미미의 git-log"
 tab_title                : "여미미의 git-log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "여미미"
+description              : "여미미의 개발 기록"
 url                      : "https://yeo-meme.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "여미미"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "👩🏼‍💻 Developer"
+  location         : "Seoul, South Korea"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
